@@ -87,4 +87,3 @@ if st.button('Predict Score'):
     st.header("Predicted Score - " + str(int(result[0])))
 
 
-
